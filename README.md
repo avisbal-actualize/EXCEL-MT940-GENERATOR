@@ -5,14 +5,17 @@ ABOUT THIS TOOL:
 - THIS WAS FIRST CREATED FOR TESCO, A UK GROCERY STORE CHAIN. 
 
 Assumptions:
-Column K has a total row. All green cells have been filled out, yellow are optional. No cells should be deleted (unless deleting entire row). New rows should be added above the "total" row. Only delete rows with Data Type "Content". 																														
+- Column K has a total row. All green cells have been filled out, yellow are optional. No cells should be deleted (unless deleting entire row). New rows should be added above the "total" row. Only delete rows with Data Type "Content". 																														
 																		
-Step 1:	Start top to bottom. Fill out all mandatory cells (green). Fill out any optional cells (yellow).
+Step 1:	
+- Start top to bottom. Fill out all mandatory cells (green). Fill out any optional cells (yellow).
 
-Step 2:	Highlight entire row 7 & Click "Export".																																	
+Step 2:	
+- Highlight entire row 7 & Click "Export".																																	
 
-Step 3:	Paste in your desired file path. To set new default path, open vba --> open DoExport module --> go to row 16 and paste desired default value. 	
-Example: C:\Users\avisb\Downloads\ 																		
+Step 3:
+- Paste in your desired file path. To set new default path, open vba --> open DoExport module --> go to row 16 and paste desired default value. 	
+- Example: C:\Users\avisb\Downloads\ 																		
 
 Step 4:	Open file path used above and find new file saved with file name "MT940-Export". 																	
 																		
