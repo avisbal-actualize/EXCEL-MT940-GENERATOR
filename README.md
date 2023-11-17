@@ -17,7 +17,7 @@ Step 3:
 - Paste in your desired file path. To set new default path, open vba --> open DoExport module --> go to row 16 and paste desired default value. 	
 - Example: C:\Users\avisb\Downloads\ 																		
 
-Step 4:	
+Step 4:
 - Open file path used above and find new file saved with file name "MT940-Export". 																	
 																		
 Note:
