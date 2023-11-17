@@ -20,7 +20,8 @@ Step 3:
 Step 4:
 - Open file path used above and find new file saved with file name "MT940-Export". 																	
 																		
-Note:
+
+Notes:
 1. When clicking export, if you have any row highlighted other than the first statement transaction, it will start generating entries from that highlighted row and not take into consideration anything above it.
 2. Totals row is generated within the macro. If the balance does not look correct on the totals row, ignore it - this is calculated and replaced within the macro itself.
 3. Do not leave empty "CONTENT" rows or this will cause breaks in the VBA logic.
