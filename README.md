@@ -4,7 +4,8 @@ VBA MT940 GENERATOR
 ABOUT THIS TOOL:
 - THIS WAS FIRST CREATED FOR TESCO, A UK GROCERY STORE CHAIN. 
 
-Assumptions:	Column K has a total row. All green cells have been filled out, yellow are optional. No cells should be deleted (unless deleting entire row). New rows should be added above the "total" row. Only delete rows with Data Type "Content". 																														
+Assumptions:
+Column K has a total row. All green cells have been filled out, yellow are optional. No cells should be deleted (unless deleting entire row). New rows should be added above the "total" row. Only delete rows with Data Type "Content". 																														
 																		
 Step 1:	Start top to bottom. Fill out all mandatory cells (green). Fill out any optional cells (yellow).
 
